@@ -46,7 +46,6 @@ void menu(ListaEncadeada<Playlist *> &lista)
   {
     return;
   }
-
   else
   {
     std::cout << "Comando invalido. Tente novamente." << std::endl;
@@ -354,7 +353,7 @@ void MenuExtra(ListaEncadeada<Playlist *> &lista)
 {
   int x;
   std::cout << "\n==============Menu extra===============" << std::endl;
-  std::cout << "\n1 - Adicionar uma Playlist a outra" << std::endl;
+  std::cout << "\n1 - Adicionar uma Playlist na outra" << std::endl;
   std::cout << "2 - Remover uma Playlist da outra" << std::endl;
   std::cout << "3 - Copiar uma Playlist" << std::endl;
   std::cout << "4 - Inserir uma musica no final <<" << std::endl;

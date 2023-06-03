@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/d/Documentos/MusicPlayerEnd-main3
+CMAKE_SOURCE_DIR = /mnt/d/Documentos/MusicPlayerLP1-V2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/d/Documentos/MusicPlayerEnd-main3/build
+CMAKE_BINARY_DIR = /mnt/d/Documentos/MusicPlayerLP1-V2/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/program.dir/depend.make
@@ -72,44 +72,44 @@ include CMakeFiles/program.dir/flags.make
 CMakeFiles/program.dir/src/main.cpp.o: CMakeFiles/program.dir/flags.make
 CMakeFiles/program.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/program.dir/src/main.cpp.o: CMakeFiles/program.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Documentos/MusicPlayerEnd-main3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/program.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/program.dir/src/main.cpp.o -MF CMakeFiles/program.dir/src/main.cpp.o.d -o CMakeFiles/program.dir/src/main.cpp.o -c /mnt/d/Documentos/MusicPlayerEnd-main3/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Documentos/MusicPlayerLP1-V2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/program.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/program.dir/src/main.cpp.o -MF CMakeFiles/program.dir/src/main.cpp.o.d -o CMakeFiles/program.dir/src/main.cpp.o -c /mnt/d/Documentos/MusicPlayerLP1-V2/src/main.cpp
 
 CMakeFiles/program.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/program.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Documentos/MusicPlayerEnd-main3/src/main.cpp > CMakeFiles/program.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Documentos/MusicPlayerLP1-V2/src/main.cpp > CMakeFiles/program.dir/src/main.cpp.i
 
 CMakeFiles/program.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/program.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Documentos/MusicPlayerEnd-main3/src/main.cpp -o CMakeFiles/program.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Documentos/MusicPlayerLP1-V2/src/main.cpp -o CMakeFiles/program.dir/src/main.cpp.s
 
 CMakeFiles/program.dir/src/func.cpp.o: CMakeFiles/program.dir/flags.make
 CMakeFiles/program.dir/src/func.cpp.o: ../src/func.cpp
 CMakeFiles/program.dir/src/func.cpp.o: CMakeFiles/program.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Documentos/MusicPlayerEnd-main3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/program.dir/src/func.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/program.dir/src/func.cpp.o -MF CMakeFiles/program.dir/src/func.cpp.o.d -o CMakeFiles/program.dir/src/func.cpp.o -c /mnt/d/Documentos/MusicPlayerEnd-main3/src/func.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Documentos/MusicPlayerLP1-V2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/program.dir/src/func.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/program.dir/src/func.cpp.o -MF CMakeFiles/program.dir/src/func.cpp.o.d -o CMakeFiles/program.dir/src/func.cpp.o -c /mnt/d/Documentos/MusicPlayerLP1-V2/src/func.cpp
 
 CMakeFiles/program.dir/src/func.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/program.dir/src/func.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Documentos/MusicPlayerEnd-main3/src/func.cpp > CMakeFiles/program.dir/src/func.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Documentos/MusicPlayerLP1-V2/src/func.cpp > CMakeFiles/program.dir/src/func.cpp.i
 
 CMakeFiles/program.dir/src/func.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/program.dir/src/func.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Documentos/MusicPlayerEnd-main3/src/func.cpp -o CMakeFiles/program.dir/src/func.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Documentos/MusicPlayerLP1-V2/src/func.cpp -o CMakeFiles/program.dir/src/func.cpp.s
 
 CMakeFiles/program.dir/src/playlist.cpp.o: CMakeFiles/program.dir/flags.make
 CMakeFiles/program.dir/src/playlist.cpp.o: ../src/playlist.cpp
 CMakeFiles/program.dir/src/playlist.cpp.o: CMakeFiles/program.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Documentos/MusicPlayerEnd-main3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/program.dir/src/playlist.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/program.dir/src/playlist.cpp.o -MF CMakeFiles/program.dir/src/playlist.cpp.o.d -o CMakeFiles/program.dir/src/playlist.cpp.o -c /mnt/d/Documentos/MusicPlayerEnd-main3/src/playlist.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Documentos/MusicPlayerLP1-V2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/program.dir/src/playlist.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/program.dir/src/playlist.cpp.o -MF CMakeFiles/program.dir/src/playlist.cpp.o.d -o CMakeFiles/program.dir/src/playlist.cpp.o -c /mnt/d/Documentos/MusicPlayerLP1-V2/src/playlist.cpp
 
 CMakeFiles/program.dir/src/playlist.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/program.dir/src/playlist.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Documentos/MusicPlayerEnd-main3/src/playlist.cpp > CMakeFiles/program.dir/src/playlist.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Documentos/MusicPlayerLP1-V2/src/playlist.cpp > CMakeFiles/program.dir/src/playlist.cpp.i
 
 CMakeFiles/program.dir/src/playlist.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/program.dir/src/playlist.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Documentos/MusicPlayerEnd-main3/src/playlist.cpp -o CMakeFiles/program.dir/src/playlist.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Documentos/MusicPlayerLP1-V2/src/playlist.cpp -o CMakeFiles/program.dir/src/playlist.cpp.s
 
 # Object files for target program
 program_OBJECTS = \
@@ -125,7 +125,7 @@ program: CMakeFiles/program.dir/src/func.cpp.o
 program: CMakeFiles/program.dir/src/playlist.cpp.o
 program: CMakeFiles/program.dir/build.make
 program: CMakeFiles/program.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/Documentos/MusicPlayerEnd-main3/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable program"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/Documentos/MusicPlayerLP1-V2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable program"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/program.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -137,6 +137,6 @@ CMakeFiles/program.dir/clean:
 .PHONY : CMakeFiles/program.dir/clean
 
 CMakeFiles/program.dir/depend:
-	cd /mnt/d/Documentos/MusicPlayerEnd-main3/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/d/Documentos/MusicPlayerEnd-main3 /mnt/d/Documentos/MusicPlayerEnd-main3 /mnt/d/Documentos/MusicPlayerEnd-main3/build /mnt/d/Documentos/MusicPlayerEnd-main3/build /mnt/d/Documentos/MusicPlayerEnd-main3/build/CMakeFiles/program.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/d/Documentos/MusicPlayerLP1-V2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/d/Documentos/MusicPlayerLP1-V2 /mnt/d/Documentos/MusicPlayerLP1-V2 /mnt/d/Documentos/MusicPlayerLP1-V2/build /mnt/d/Documentos/MusicPlayerLP1-V2/build /mnt/d/Documentos/MusicPlayerLP1-V2/build/CMakeFiles/program.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/program.dir/depend
 

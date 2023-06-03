@@ -1,5 +1,5 @@
 CMakeFiles/program.dir/src/main.cpp.o: \
- /mnt/d/Documentos/MusicPlayerEnd-main3/src/main.cpp \
+ /mnt/d/Documentos/MusicPlayerLP1-V2/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -151,9 +151,9 @@ CMakeFiles/program.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
  /usr/include/c++/11/bits/fstream.tcc /usr/include/c++/11/sstream \
  /usr/include/c++/11/bits/sstream.tcc \
- /mnt/d/Documentos/MusicPlayerEnd-main3/include/ListaEncadeada.h \
- /mnt/d/Documentos/MusicPlayerEnd-main3/include/music.h \
- /mnt/d/Documentos/MusicPlayerEnd-main3/include/Node.h \
- /mnt/d/Documentos/MusicPlayerEnd-main3/include/func.h \
- /mnt/d/Documentos/MusicPlayerEnd-main3/include/ListaEncadeada.h \
- /mnt/d/Documentos/MusicPlayerEnd-main3/include/playlist.h
+ /mnt/d/Documentos/MusicPlayerLP1-V2/include/ListaEncadeada.h \
+ /mnt/d/Documentos/MusicPlayerLP1-V2/include/music.h \
+ /mnt/d/Documentos/MusicPlayerLP1-V2/include/Node.h \
+ /mnt/d/Documentos/MusicPlayerLP1-V2/include/func.h \
+ /mnt/d/Documentos/MusicPlayerLP1-V2/include/ListaEncadeada.h \
+ /mnt/d/Documentos/MusicPlayerLP1-V2/include/playlist.h

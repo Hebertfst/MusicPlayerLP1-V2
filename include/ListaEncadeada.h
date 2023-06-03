@@ -242,7 +242,7 @@ public:
    */
   ListaEncadeada<T> operator+(const ListaEncadeada<T> &lista)
   {
-    ListaEncadeada<T> novaLista = construtorCopia(*this); // Cria uma cópia da lista atual
+    ListaEncadeada<T> novaLista = construtorCopia(*this);
 
     Node<T> *atual = lista.getHead();
     while (atual != nullptr)
@@ -254,7 +254,6 @@ public:
     return novaLista;
   }
 
-  // Operador '>>': extrai o último elemento da lista
   /**
    * @brief Extrai o último elemento da lista
    *
@@ -273,7 +272,6 @@ public:
     }
   }
 
-  // Operador '<<': insere um nó no fim da lista
   /**
    * @brief Insere um nó no fim da lista
    *

@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/mnt/d/Documentos/MusicPlayerEnd-main3/include
+CXX_INCLUDES = -I/mnt/d/Documentos/MusicPlayerLP1-V2/include
 
 CXX_FLAGS = -Wall
 
